@@ -1254,8 +1254,8 @@
 				background-repeat: no-repeat;
 				background-size: auto;
 				border: 1px solid #fff;
+				border-color: rgba(0, 0, 0, 0);
 				border-radius: 50%;
-				border-color: rgba(255, 255, 255, 0.00);
 				color: rgba(255, 255, 255, 0.75);
 				display: block;
 				height: 4em;
@@ -1270,8 +1270,8 @@
 
 			#banner .more:hover {
 				background-color: rgba(255, 255, 255, 0.55);
+				border-color: rgba(0, 0, 0, 0);
 				border: 2px solid rgba(255, 255, 255, 0.678);
-				border-color: rgba(255, 255, 255, 0.00);
 				color: #FFF;
 			}
 
