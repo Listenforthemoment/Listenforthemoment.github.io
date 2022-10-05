@@ -1167,7 +1167,9 @@
 		justify-content: center;
 		padding: 8em 4em 6em 4em;
 		min-height: 70vh;
+		background-video: url("../../images/banner.mp4");
 		background-image: url("../../images/banner.jpg");
+		background-video: url("../../images/banner.webm");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -1252,7 +1254,8 @@
 				background-repeat: no-repeat;
 				background-size: auto;
 				border: 1px solid #fff;
-				border-radius: 100%;
+				border-radius: 50%;
+				border-color: rgba(255, 255, 255, 0.00);
 				color: rgba(255, 255, 255, 0.75);
 				display: block;
 				height: 4em;
@@ -1266,8 +1269,9 @@
 	
 
 			#banner .more:hover {
-				background-color: rgba(255, 255, 255, 0.05);
+				background-color: rgba(255, 255, 255, 0.55);
 				border: 2px solid rgba(255, 255, 255, 0.678);
+				border-color: rgba(255, 255, 255, 0.00);
 				color: #FFF;
 			}
 
